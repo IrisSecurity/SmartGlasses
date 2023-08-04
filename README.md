@@ -13,9 +13,6 @@ This repo holds mechanical, electrical, and software files for the open source s
 
 This project is built by members of TeamOpenSmartGlasses and the [H20 Smart Glasses Community](https://smartglasses.community/), a community of engineers, researchers, makers, designers, entrepreneurs, and anyone else driven to build technology that enhances user's intelligence in daily life.  
 
-## Videos
-
-[![Open Source Smart Glasses Prototype Project/Progress Video](res/thumbnail_ossg_play.jpg)](https://www.youtube.com/watch?v=PwmGNWkpKW8 "Open Source Smart Glasses")
 
 ## Images
 
