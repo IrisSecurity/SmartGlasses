@@ -56,11 +56,11 @@ The system is fully Open Source and built by this growing list of contributors:
 - [Cayden Pierce](https://caydenpierce.com) - [Emex Labs](https://emexwearables.com)
 - [Alex Israelov](https://alexisraelov.com)
 - Paul Hamilton
+- [Michael Heckathorn](https://aioutreach.io)
 - [Adrian Papineau](https://www.parallelinnov.com/about-us/)
 - [Nicholas Gray](https://github.com/Thecactusman0)
 - Matthew Jansen
 - Paul M
-- Your Name Here, [join us](https://discord.gg/5ukNvkEAqT)!
 
 ## How Do I Buy A Pair?
 
