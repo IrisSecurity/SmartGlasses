@@ -17,10 +17,10 @@ This project is built by members of TeamOpenSmartGlasses and the [H20 Smart Glas
 ## Images
 
 ![User Wearing OSSG v1.0](res/ossg_v1p0_cayden_pierce.jpg)
-![OSSG v0p5 Board Design Render](res/v0p5_board_render.png)
+
 ![OSSG v0.5 Main Schematic](res/v0p5_schematic_main.jpg)
 ![OSSG v0.5 Power Schematic](res/v0p5_schematic_power.jpg)
-![OSSG Prescription Lenses](res/OpenSourceSmartGlasses_prescription_lenses_CaydenPierce.jpg)
+
 ## License
 
 All work contained here is licensed under the MIT License.
