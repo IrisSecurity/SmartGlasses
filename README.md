@@ -16,8 +16,6 @@ This project is built by members of TeamOpenSmartGlasses and the [H20 Smart Glas
 
 ## Images
 
-![User Wearing OSSG v1.0](res/ossg_v1p0_cayden_pierce.jpg)
-
 ![OSSG v0.5 Main Schematic](res/v0p5_schematic_main.jpg)
 ![OSSG v0.5 Power Schematic](res/v0p5_schematic_power.jpg)
 
