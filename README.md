@@ -13,6 +13,18 @@ This repo holds mechanical, electrical, and software files for the open source s
 
 This project is built by members of TeamOpenSmartGlasses and the [H20 Smart Glasses Community](https://smartglasses.community/), a community of engineers, researchers, makers, designers, entrepreneurs, and anyone else driven to build technology that enhances user's intelligence in daily life.  
 
+## Contributors / Collaborators
+
+The system is fully Open Source and built by this growing list of contributors:
+
+- [Cayden Pierce](https://caydenpierce.com) - [Emex Labs](https://emexwearables.com)
+- [Michael Heckathorn](https://www.linkedin.com/in/michael-heckathorn)
+- [Alex Israelov](https://alexisraelov.com)
+- [Adrian Papineau](https://www.parallelinnov.com/about-us/)
+- [Nicholas Gray](https://github.com/Thecactusman0)
+- Matthew Jansen
+- Paul M
+
 
 ## Images
 
@@ -42,19 +54,6 @@ All work contained here is licensed under the MIT License.
 ## Team Open Smartglasses
 
 Team Open Smartglasses is a group of engineers, researchers, makers, and designers from around the world joining forces to build Open Source Smartglasses. We're a highly technical team of people who have all built custom wearables on our own in the past, coming together to build the world's best smart glasses, Open Source. 
-
-
-## Contributors / Collaborators
-
-The system is fully Open Source and built by this growing list of contributors:
-
-- [Cayden Pierce](https://caydenpierce.com) - [Emex Labs](https://emexwearables.com)
-- [Michael Heckathorn](https://www.linkedin.com/in/michael-heckathorn)
-- [Alex Israelov](https://alexisraelov.com)
-- [Adrian Papineau](https://www.parallelinnov.com/about-us/)
-- [Nicholas Gray](https://github.com/Thecactusman0)
-- Matthew Jansen
-- Paul M
 
 ## How Do I Buy A Pair?
 
