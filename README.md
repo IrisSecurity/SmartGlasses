@@ -23,9 +23,7 @@ This project is built by members of TeamOpenSmartGlasses and the [H20 Smart Glas
 
 All work contained here is licensed under the MIT License.
 
-## Overview
 
-See the wiki, this README, and the discord for an overview of the project vision and roadmap. More information to be added soon. Here's [the discord](https://discord.gg/5ukNvkEAqT).
 
 ### OSSG - Open Source Smart Glasses
 
@@ -43,20 +41,16 @@ See the wiki, this README, and the discord for an overview of the project vision
 
 ## Team Open Smartglasses
 
-Team Open Smartglasses is a group of engineers, researchers, makers, and designers from around the world joining forces to build Open Source Smartglasses. We're a highly technical team of people who have all built custom wearables on our own in the past, coming together to build the world's best smart glasses, Open Source.
+Team Open Smartglasses is a group of engineers, researchers, makers, and designers from around the world joining forces to build Open Source Smartglasses. We're a highly technical team of people who have all built custom wearables on our own in the past, coming together to build the world's best smart glasses, Open Source. 
 
-## Community
-
-If you're interested in developing Open Source Smart Glasses, feel free to to join the [Discord server](https://discord.gg/5ukNvkEAqT).
 
 ## Contributors / Collaborators
 
 The system is fully Open Source and built by this growing list of contributors:
 
 - [Cayden Pierce](https://caydenpierce.com) - [Emex Labs](https://emexwearables.com)
+- [Michael Heckathorn](https://www.linkedin.com/in/michael-heckathorn)
 - [Alex Israelov](https://alexisraelov.com)
-- Paul Hamilton
-- [Michael Heckathorn](https://aioutreach.io)
 - [Adrian Papineau](https://www.parallelinnov.com/about-us/)
 - [Nicholas Gray](https://github.com/Thecactusman0)
 - Matthew Jansen
